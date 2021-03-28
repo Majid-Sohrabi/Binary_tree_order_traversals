@@ -15,9 +15,9 @@ The program opens with a menu and let the user to create his/her tree by importi
   7. Delete
 Enter your selection:
 ```
-  A) By ```Display``` the user can see the tree.
-  B)By ```Search``` the user can find if a desier node is in the tree or not.
-  C) By ```Inorder```, ```Preorder```, ```Postorder``` the user can see the desire traverse.
-  D) By ```Delete``` the user can remove a data (node) from the existing tree.
+```Display``` shows the tree to the user.
+By ```Search``` the user can find if a desier node is in the tree or not.
+With the help of ```Inorder```, ```Preorder```, ```Postorder``` functions the user can see the desire traverse.
+By ```Delete``` the user can remove a data (node) from the existing tree.
 
 This project implemented for ```Data Structure``` course.
