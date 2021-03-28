@@ -4,7 +4,7 @@ In this project we can see Inorder, Preorder, and Postorder of a tree.
 
 The program opens with a menu and let the user to create his/her tree by importing the data(nodes) one by one:
 
-'''
+```
   0. Exit
   1. Insert
   2. Display
@@ -13,4 +13,4 @@ The program opens with a menu and let the user to create his/her tree by importi
   5. Preorder
   6. Postorder
   7. Delete
-'''
+```
